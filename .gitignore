@@ -1,0 +1,8 @@
+*.pyc
+.vscode
+data
+output
+build
+*.egg-info
+tensorboard_3d
+screenshots
